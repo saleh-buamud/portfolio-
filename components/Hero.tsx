@@ -107,18 +107,10 @@ export default function Hero() {
             {t('hero.subtitle')}
           </p>
           <div className="flex items-center justify-center text-lg sm:text-xl lg:text-2xl text-blue-400 h-10">
-            <span className="text-gray-400">{t('hero.specializing')}</span>
-            <motion.span
-              key={currentSkill}
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              exit={{ opacity: 0, y: -20 }}
-              transition={{ duration: 0.5 }}
-              className={`font-bold text-blue-500 min-w-[220px] text-center ${skills[currentSkill] === 'Web Development' ? 'ml-3' : 'ml-8'
-                }`}
-            >
-              {skills[currentSkill]}
-            </motion.span>
+            <span className="text-gray-400">Specializing in</span>
+            <span className="font-bold text-blue-500 min-w-[220px] text-center ml-3">
+              Web Development
+            </span>
           </div>
         </motion.div>
 
