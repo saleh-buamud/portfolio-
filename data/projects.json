@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "E-Commerce Platform",
+    "description": "A full-featured e-commerce platform with shopping cart, payment integration, and admin dashboard.",
+    "image": "/projects/ecommerce.jpg",
+    "technologies": ["PHP", "JavaScript", "MySQL", "CSS"],
+    "github": "https://github.com/salehbuamud/ecommerce-platform",
+    "details": "Built a complete e-commerce solution with user authentication, product management, and secure payment processing."
+  },
+  {
+    "id": 2,
+    "title": "Task Management App",
+    "description": "Real-time task management application with team collaboration features and drag-and-drop functionality.",
+    "image": "/projects/taskmanager.jpg",
+    "technologies": ["JavaScript", "React", "Node.js", "CSS"],
+    "github": "https://github.com/salehbuamud/task-manager",
+    "details": "Developed an intuitive task manager with real-time updates, project boards, and team collaboration tools."
+  },
+  {
+    "id": 3,
+    "title": "Portfolio CMS",
+    "description": "Custom content management system for portfolio websites with drag-and-drop page builder.",
+    "image": "/projects/cms.jpg",
+    "technologies": ["PHP", "JavaScript", "MySQL", "HTML"],
+    "github": "https://github.com/salehbuamud/portfolio-cms",
+    "details": "Created a flexible CMS allowing users to build and manage portfolio websites without coding knowledge."
+  },
+  {
+    "id": 4,
+    "title": "Weather Dashboard",
+    "description": "Interactive weather dashboard with real-time data visualization and 7-day forecasts.",
+    "image": "/projects/weather.jpg",
+    "technologies": ["JavaScript", "HTML", "CSS", "API Integration"],
+    "github": "https://github.com/salehbuamud/weather-dashboard",
+    "details": "Integrated multiple weather APIs to provide comprehensive weather information with beautiful visualizations."
+  },
+  {
+    "id": 5,
+    "title": "Blog Engine",
+    "description": "Fast and SEO-optimized blog engine with markdown support and admin interface.",
+    "image": "/projects/blog.jpg",
+    "technologies": ["PHP", "JavaScript", "MySQL", "CSS"],
+    "github": "https://github.com/salehbuamud/blog-engine",
+    "details": "Developed a lightweight blog platform with focus on performance, SEO, and user experience."
+  },
+  {
+    "id": 6,
+    "title": "Restaurant Booking System",
+    "description": "Online reservation system for restaurants with table management and SMS notifications.",
+    "image": "/projects/booking.jpg",
+    "technologies": ["PHP", "JavaScript", "MySQL", "HTML"],
+    "github": "https://github.com/salehbuamud/restaurant-booking",
+    "details": "Built a comprehensive booking system with real-time availability, customer management, and automated notifications."
+  }
+]

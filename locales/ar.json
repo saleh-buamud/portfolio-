@@ -1,0 +1,15 @@
+{
+    "hero": {
+        "name": "صالح بعمود",
+        "subtitle": "مطور ويب | PHP و JavaScript | مهندس برمجيات",
+        "specializing": "متخصص في",
+        "skill_web": "تطوير الويب",
+        "get_in_touch": "تواصل معي",
+        "scroll_to_about": "الانتقال إلى قسم من أنا"
+    },
+    "social": {
+        "github": "جيت هب",
+        "linkedin": "لينكد إن",
+        "twitter": "تويتر"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "hero": {
+        "name": "Saleh buamud",
+        "subtitle": "Web Developer | PHP & JavaScript | Software Engineer",
+        "specializing": "Specializing in",
+        "skill_web": "Web Development",
+        "get_in_touch": "Get In Touch",
+        "scroll_to_about": "Scroll to About section"
+    },
+    "social": {
+        "github": "GitHub",
+        "linkedin": "LinkedIn",
+        "twitter": "Twitter"
+    }
+}
